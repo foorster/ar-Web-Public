@@ -3,7 +3,11 @@
 ### Сайт для конференции по дополненной реальности МГТУ им. Н.Э. Баумана "ТЕХНОЛОГИИ ДОПОЛНЕННОЙ И ВИРТУАЛЬНОЙ РЕАЛЬНОСТИ"
 
 Публичный репозиторий реализованного проекта по разработке сайта
-![bmstu_desk](https://github.com/user-attachments/assets/043a8f72-28ce-49d8-bd95-40935557de78)
-![bmstu_mob](https://github.com/user-attachments/assets/3867ed17-fb1d-41f6-961c-80fea0536d99)
 
+Этот проект представляет собой веб-приложение, разработанное с использованием следующих технологий:
 
+Frontend: React, Chakra UI, React Router, Redux, React Query
+Backend/Build: Laravel Vite
+HTTP Client: Axios
+
+![bmstu_desk_and_mob](https://github.com/user-attachments/assets/405a10bb-837e-441a-9884-09ac012c7e7b)
